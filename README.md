@@ -1,12 +1,46 @@
-# React + Vite
+Dessert Shop - React E-Commerce Application
+🍰 Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dessert Shop is a modern, responsive e-commerce web application built with React that showcases a variety of delicious desserts. This project demonstrates core React concepts, state management, and UI/UX best practices for online shopping experiences.
+✨ Key Features
 
-Currently, two official plugins are available:
+    Interactive Product Catalog: Beautifully displayed dessert cards with hover effects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Shopping Cart System:
 
-## Expanding the ESLint configuration
+        Add/remove items
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+        Quantity adjustments
+
+        Real-time price calculations
+
+    Animated UI Elements:
+
+        Smooth hover transitions
+
+        Confirmation animations
+
+        Loading indicators
+
+    Responsive Design: Fully functional on all device sizes
+
+    Performance Optimized: Efficient state management and rendering
+
+🛠 Technical Stack
+
+    Frontend: React 18, React Router
+
+    Styling: CSS Modules with Flexbox/Grid
+
+    Icons: React Icons (Font Awesome)
+
+    Build Tool: Vite (for faster development)
+
+    Deployment: GitHub Pages
+
+🚀 Getting Started
+Prerequisites
+
+    Node.js (v16+ recommended)
+
+    npm or yarn
